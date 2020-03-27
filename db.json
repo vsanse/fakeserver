@@ -1563,218 +1563,220 @@
     "yacht",
     "zebra"
   ],
-  "categories": [
-    {
-      "name": "New Arrivals",
-      "url": "/s/RefArch/new%20arrivals/?lang=en_US",
-      "id": "newarrivals",
-      "subCategories": [
-        {
-          "name": "Womens",
-          "url": "/s/RefArch/new%20arrivals/womens/?lang=en_US",
-          "id": "newarrivals-womens"
-        },
-        {
-          "name": "Mens",
-          "url": "/s/RefArch/new%20arrivals/mens/?lang=en_US",
-          "id": "newarrivals-mens"
-        },
-        {
-          "name": "Electronics",
-          "url": "/s/RefArch/new%20arrivals/electronics/?lang=en_US",
-          "id": "newarrivals-electronics"
-        }
-      ],
-      "complexSubCategories": false
-    },
-    {
-      "name": "Womens",
-      "url": "/s/RefArch/womens/?lang=en_US",
-      "id": "womens",
-      "subCategories": [
-        {
-          "name": "Clothing",
-          "url": "/s/RefArch/womens/clothing/?lang=en_US",
-          "id": "womens-clothing",
-          "subCategories": [
-            {
-              "name": "Outfits",
-              "url": "/s/RefArch/womens/clothing/outfits/?lang=en_US",
-              "id": "womens-outfits"
-            },
-            {
-              "name": "Tops",
-              "url": "/s/RefArch/womens/clothing/tops/?lang=en_US",
-              "id": "womens-clothing-tops"
-            },
-            {
-              "name": "Dresses",
-              "url": "/s/RefArch/womens/clothing/dresses/?lang=en_US",
-              "id": "womens-clothing-dresses"
-            },
-            {
-              "name": "Bottoms",
-              "url": "/s/RefArch/womens/clothing/bottoms/?lang=en_US",
-              "id": "womens-clothing-bottoms"
-            },
-            {
-              "name": "Jackets & Coats",
-              "url": "/s/RefArch/womens/clothing/jackets%20%26%20coats/?lang=en_US",
-              "id": "womens-clothing-jackets"
-            },
-            {
-              "name": "Feeling Red",
-              "url": "/s/RefArch/womens/clothing/feeling%20red/?lang=en_US",
-              "id": "womens-clothing-feeling-red"
-            }
-          ],
-          "complexSubCategories": false
-        },
-        {
-          "name": "Jewelry",
-          "url": "/s/RefArch/womens/jewelry/?lang=en_US",
-          "id": "womens-jewelry",
-          "subCategories": [
-            {
-              "name": "Earrings",
-              "url": "/s/RefArch/womens/jewelry/earrings/?lang=en_US",
-              "id": "womens-jewelry-earrings"
-            },
-            {
-              "name": "Bracelets",
-              "url": "/s/RefArch/womens/jewelry/bracelets/?lang=en_US",
-              "id": "womens-jewelry-bracelets"
-            },
-            {
-              "name": "Necklaces",
-              "url": "/s/RefArch/womens/jewelry/necklaces/?lang=en_US",
-              "id": "womens-jewelry-necklaces"
-            }
-          ],
-          "complexSubCategories": false
-        },
-        {
-          "name": "Accessories",
-          "url": "/s/RefArch/womens/accessories/?lang=en_US",
-          "id": "womens-accessories",
-          "subCategories": [
-            {
-              "name": "Scarves",
-              "url": "/s/RefArch/womens/accessories/scarves/?lang=en_US",
-              "id": "womens-accessories-scarves"
-            },
-            {
-              "name": "Shoes",
-              "url": "/s/RefArch/womens/accessories/shoes/?lang=en_US",
-              "id": "womens-accessories-shoes"
-            }
-          ],
-          "complexSubCategories": false
-        }
-      ],
-      "complexSubCategories": true
-    },
-    {
-      "name": "Mens",
-      "url": "/s/RefArch/mens/?lang=en_US",
-      "id": "mens",
-      "subCategories": [
-        {
-          "name": "Clothing",
-          "url": "/s/RefArch/mens/clothing/?lang=en_US",
-          "id": "mens-clothing",
-          "subCategories": [
-            {
-              "name": "Suits",
-              "url": "/s/RefArch/mens/clothing/suits/?lang=en_US",
-              "id": "mens-clothing-suits"
-            },
-            {
-              "name": "Jackets & Coats",
-              "url": "/s/RefArch/mens/clothing/jackets%20%26%20coats/?lang=en_US",
-              "id": "mens-clothing-jackets"
-            },
-            {
-              "name": "Dress Shirts",
-              "url": "/s/RefArch/mens/clothing/dress%20shirts/?lang=en_US",
-              "id": "mens-clothing-dress-shirts"
-            },
-            {
-              "name": "Shorts",
-              "url": "/s/RefArch/mens/clothing/shorts/?lang=en_US",
-              "id": "mens-clothing-shorts"
-            },
-            {
-              "name": "Pants",
-              "url": "/s/RefArch/mens/clothing/pants/?lang=en_US",
-              "id": "mens-clothing-pants"
-            }
-          ],
-          "complexSubCategories": false
-        },
-        {
-          "name": "Accessories",
-          "url": "/s/RefArch/mens/accessories/?lang=en_US",
-          "id": "mens-accessories",
-          "subCategories": [
-            {
-              "name": "Ties",
-              "url": "/s/RefArch/mens/accessories/ties/?lang=en_US",
-              "id": "mens-accessories-ties"
-            },
-            {
-              "name": "Gloves",
-              "url": "/s/RefArch/mens/accessories/gloves/?lang=en_US",
-              "id": "mens-accessories-gloves"
-            },
-            {
-              "name": "Luggage",
-              "url": "/s/RefArch/mens/accessories/luggage/?lang=en_US",
-              "id": "mens-accessories-luggage"
-            }
-          ],
-          "complexSubCategories": false
-        }
-      ],
-      "complexSubCategories": true
-    },
-    {
-      "name": "Electronics",
-      "url": "/s/RefArch/electronics/?lang=en_US",
-      "id": "electronics",
-      "subCategories": [
-        {
-          "name": "Televisions",
-          "url": "/s/RefArch/electronics/televisions/?lang=en_US",
-          "id": "electronics-televisions"
-        },
-        {
-          "name": "Digital Cameras",
-          "url": "/s/RefArch/electronics/digital%20cameras/?lang=en_US",
-          "id": "electronics-digital-cameras"
-        },
-        {
-          "name": "iPod & MP3 Players",
-          "url": "/s/RefArch/electronics/ipod%20%26%20mp3%20players/?lang=en_US",
-          "id": "electronics-digital-media-players"
-        },
-        {
-          "name": "GPS Navigation",
-          "url": "/s/RefArch/electronics/gps%20navigation/?lang=en_US",
-          "id": "electronics-gps-units"
-        },
-        {
-          "name": "Gaming",
-          "url": "/s/RefArch/electronics/gaming/?lang=en_US",
-          "id": "electronics-gaming"
-        }
-      ],
-      "complexSubCategories": false
-    },
-    {
-      "name": "Top Sellers",
-      "url": {},
-      "id": "top-seller"
-    }
-  ]
+  "sfra": {
+    "categories": [
+      {
+        "name": "New Arrivals",
+        "url": "/s/RefArch/new%20arrivals/?lang=en_US",
+        "id": "newarrivals",
+        "subCategories": [
+          {
+            "name": "Womens",
+            "url": "/s/RefArch/new%20arrivals/womens/?lang=en_US",
+            "id": "newarrivals-womens"
+          },
+          {
+            "name": "Mens",
+            "url": "/s/RefArch/new%20arrivals/mens/?lang=en_US",
+            "id": "newarrivals-mens"
+          },
+          {
+            "name": "Electronics",
+            "url": "/s/RefArch/new%20arrivals/electronics/?lang=en_US",
+            "id": "newarrivals-electronics"
+          }
+        ],
+        "complexSubCategories": false
+      },
+      {
+        "name": "Womens",
+        "url": "/s/RefArch/womens/?lang=en_US",
+        "id": "womens",
+        "subCategories": [
+          {
+            "name": "Clothing",
+            "url": "/s/RefArch/womens/clothing/?lang=en_US",
+            "id": "womens-clothing",
+            "subCategories": [
+              {
+                "name": "Outfits",
+                "url": "/s/RefArch/womens/clothing/outfits/?lang=en_US",
+                "id": "womens-outfits"
+              },
+              {
+                "name": "Tops",
+                "url": "/s/RefArch/womens/clothing/tops/?lang=en_US",
+                "id": "womens-clothing-tops"
+              },
+              {
+                "name": "Dresses",
+                "url": "/s/RefArch/womens/clothing/dresses/?lang=en_US",
+                "id": "womens-clothing-dresses"
+              },
+              {
+                "name": "Bottoms",
+                "url": "/s/RefArch/womens/clothing/bottoms/?lang=en_US",
+                "id": "womens-clothing-bottoms"
+              },
+              {
+                "name": "Jackets & Coats",
+                "url": "/s/RefArch/womens/clothing/jackets%20%26%20coats/?lang=en_US",
+                "id": "womens-clothing-jackets"
+              },
+              {
+                "name": "Feeling Red",
+                "url": "/s/RefArch/womens/clothing/feeling%20red/?lang=en_US",
+                "id": "womens-clothing-feeling-red"
+              }
+            ],
+            "complexSubCategories": false
+          },
+          {
+            "name": "Jewelry",
+            "url": "/s/RefArch/womens/jewelry/?lang=en_US",
+            "id": "womens-jewelry",
+            "subCategories": [
+              {
+                "name": "Earrings",
+                "url": "/s/RefArch/womens/jewelry/earrings/?lang=en_US",
+                "id": "womens-jewelry-earrings"
+              },
+              {
+                "name": "Bracelets",
+                "url": "/s/RefArch/womens/jewelry/bracelets/?lang=en_US",
+                "id": "womens-jewelry-bracelets"
+              },
+              {
+                "name": "Necklaces",
+                "url": "/s/RefArch/womens/jewelry/necklaces/?lang=en_US",
+                "id": "womens-jewelry-necklaces"
+              }
+            ],
+            "complexSubCategories": false
+          },
+          {
+            "name": "Accessories",
+            "url": "/s/RefArch/womens/accessories/?lang=en_US",
+            "id": "womens-accessories",
+            "subCategories": [
+              {
+                "name": "Scarves",
+                "url": "/s/RefArch/womens/accessories/scarves/?lang=en_US",
+                "id": "womens-accessories-scarves"
+              },
+              {
+                "name": "Shoes",
+                "url": "/s/RefArch/womens/accessories/shoes/?lang=en_US",
+                "id": "womens-accessories-shoes"
+              }
+            ],
+            "complexSubCategories": false
+          }
+        ],
+        "complexSubCategories": true
+      },
+      {
+        "name": "Mens",
+        "url": "/s/RefArch/mens/?lang=en_US",
+        "id": "mens",
+        "subCategories": [
+          {
+            "name": "Clothing",
+            "url": "/s/RefArch/mens/clothing/?lang=en_US",
+            "id": "mens-clothing",
+            "subCategories": [
+              {
+                "name": "Suits",
+                "url": "/s/RefArch/mens/clothing/suits/?lang=en_US",
+                "id": "mens-clothing-suits"
+              },
+              {
+                "name": "Jackets & Coats",
+                "url": "/s/RefArch/mens/clothing/jackets%20%26%20coats/?lang=en_US",
+                "id": "mens-clothing-jackets"
+              },
+              {
+                "name": "Dress Shirts",
+                "url": "/s/RefArch/mens/clothing/dress%20shirts/?lang=en_US",
+                "id": "mens-clothing-dress-shirts"
+              },
+              {
+                "name": "Shorts",
+                "url": "/s/RefArch/mens/clothing/shorts/?lang=en_US",
+                "id": "mens-clothing-shorts"
+              },
+              {
+                "name": "Pants",
+                "url": "/s/RefArch/mens/clothing/pants/?lang=en_US",
+                "id": "mens-clothing-pants"
+              }
+            ],
+            "complexSubCategories": false
+          },
+          {
+            "name": "Accessories",
+            "url": "/s/RefArch/mens/accessories/?lang=en_US",
+            "id": "mens-accessories",
+            "subCategories": [
+              {
+                "name": "Ties",
+                "url": "/s/RefArch/mens/accessories/ties/?lang=en_US",
+                "id": "mens-accessories-ties"
+              },
+              {
+                "name": "Gloves",
+                "url": "/s/RefArch/mens/accessories/gloves/?lang=en_US",
+                "id": "mens-accessories-gloves"
+              },
+              {
+                "name": "Luggage",
+                "url": "/s/RefArch/mens/accessories/luggage/?lang=en_US",
+                "id": "mens-accessories-luggage"
+              }
+            ],
+            "complexSubCategories": false
+          }
+        ],
+        "complexSubCategories": true
+      },
+      {
+        "name": "Electronics",
+        "url": "/s/RefArch/electronics/?lang=en_US",
+        "id": "electronics",
+        "subCategories": [
+          {
+            "name": "Televisions",
+            "url": "/s/RefArch/electronics/televisions/?lang=en_US",
+            "id": "electronics-televisions"
+          },
+          {
+            "name": "Digital Cameras",
+            "url": "/s/RefArch/electronics/digital%20cameras/?lang=en_US",
+            "id": "electronics-digital-cameras"
+          },
+          {
+            "name": "iPod & MP3 Players",
+            "url": "/s/RefArch/electronics/ipod%20%26%20mp3%20players/?lang=en_US",
+            "id": "electronics-digital-media-players"
+          },
+          {
+            "name": "GPS Navigation",
+            "url": "/s/RefArch/electronics/gps%20navigation/?lang=en_US",
+            "id": "electronics-gps-units"
+          },
+          {
+            "name": "Gaming",
+            "url": "/s/RefArch/electronics/gaming/?lang=en_US",
+            "id": "electronics-gaming"
+          }
+        ],
+        "complexSubCategories": false
+      },
+      {
+        "name": "Top Sellers",
+        "url": {},
+        "id": "top-seller"
+      }
+    ]
+  }
 }
