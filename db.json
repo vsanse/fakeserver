@@ -1777,6 +1777,106 @@
         "url": {},
         "id": "top-seller"
       }
-    ]
+    ],
+    "new%20arrivals": {
+      "products": [
+        {
+          "ID": "sony-ps3-bundleM",
+          "name": "Playstation 3 Bundle",
+          "description": "",
+          "image": "/on/demandware.static/-/Sites-electronics-m-catalog/default/dwac28c193/images/medium/sony-ps3-bundle.jpg",
+          "maxPrice": 449,
+          "minPrice": 449
+        },
+        {
+          "ID": "canon-powershot-sd990-isM",
+          "name": "Canon PowerShot SD990 Digital Point and Shoot Camera",
+          "description": " When you're ready to experience a higher level of pace-setting technology and image brilliance, the PowerShot SD990 IS Digital ELPH is ready for you. One glance at the sleek, sculptured profile, and you know this is a camera driven by design and features. Style without compromise is the perfect complement to the ELPH model's most advanced feature lineup - engineering leadership that opens your eyes and imagination to the real potential and boundless pleasures of photography. ",
+          "image": "/on/demandware.static/-/Sites-electronics-m-catalog/default/dw663f9bfa/images/medium/canon-powershot-sd990-is.jpg",
+          "maxPrice": 399.99,
+          "minPrice": 399.99
+        },
+        {
+          "ID": "25502452M",
+          "name": "Slim Pant",
+          "description": "This classic narrow leg pant will be an instant everyday staple. Pair it with a great Commerce Cloud Store top and you are set to go!",
+          "image": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw760e55ea/images/medium/PG.10202628.JJJA4XX.PZ.jpg",
+          "maxPrice": 64.99,
+          "minPrice": 64.99
+        },
+        {
+          "ID": "toshiba-meu202-bkM",
+          "name": "Toshiba GigaBeat MEU202-BK 2GB Digital Media Player",
+          "description": "The Beat generation has arrived with Toshiba's gigabeat U-Series Portable Media Player the is light enough to keep you moving and packed with more than enough to keep you listening. Up to 20 hours of audio and large storage area, supporting up to 2GB of flash memory media , makes the gigabeat U-Series the stylish and fun alternative media player for your favorite music and photo enjoyment.",
+          "image": "/on/demandware.static/-/Sites-electronics-m-catalog/default/dwa3078b4b/images/medium/toshiba-meu202-bk.jpg",
+          "maxPrice": 53.99,
+          "minPrice": 53.99
+        },
+        {
+          "ID": "82936941M",
+          "name": "Modern Blazer",
+          "description": "This modern sportcoat brings versatility to your blazer collection. Made in our wool silk end-on-end suiting.",
+          "image": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw72fbc82d/images/medium/B0171103_BDA_0.jpg",
+          "maxPrice": 495,
+          "minPrice": 495
+        },
+        {
+          "ID": "12416789M",
+          "name": "Straight Leg Trousers",
+          "description": "A menswear favorite, these straight leg trousers are to the point when it comes to business dressing. Made in our lightweight combed stretch cotton suiting with pinstripe pattern.",
+          "image": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw1a6b7a7e/images/medium/B0274206_GYX_0.jpg",
+          "maxPrice": 195,
+          "minPrice": 195
+        },
+        {
+          "ID": "32416783M",
+          "name": "Straight Leg Pants",
+          "description": "Not your typical trousers, these straight leg pants are the perfect casual-to-dressy building block. Pair with a tee or a refined button-down. Made in our washed delave cotton with sateen finish.",
+          "image": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw4f2f9a73/images/medium/B0274210_MDR_0.jpg",
+          "maxPrice": 195,
+          "minPrice": 195
+        },
+        {
+          "ID": "25592300M",
+          "name": "Cuffed Cargo Pant",
+          "description": "Our best selling cargo pant is a must have wardrobe completer.  We love the way it looks with a great Commerce Cloud Store top!",
+          "image": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw3c0525e7/images/medium/PG.10226893.JJI15XX.PZ.jpg",
+          "maxPrice": 74,
+          "minPrice": 74
+        },
+        {
+          "ID": "25686544M",
+          "name": "Black Flat Front Wool Suit",
+          "description": "This suit is great for any occasion. Add a shirt and a tie and you are ready for any event. ",
+          "image": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw37d7bb9f/images/medium/PG.52001DAN84Q.BLACKWL.PZ.jpg",
+          "maxPrice": 299.99,
+          "minPrice": 299.99
+        },
+        {
+          "ID": "25592590M",
+          "name": "Full Skirt",
+          "description": "This stylish full skirt offers a sophisticated look in a great fabric as well. Add a floral printed tank to brighten up this look for spring.",
+          "image": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dwdc417fc6/images/medium/PG.10238454.JJV02XX.PZ.jpg",
+          "maxPrice": 109,
+          "minPrice": 109
+        },
+        {
+          "ID": "25688190M",
+          "name": "Classic Denim Straight Leg Capri",
+          "description": "Our favorite classic denim straight leg capri is updated in fresh-for-the-season hue with front and back pockets. This is that one perfect-fitting piece to anchor your wardrobe.",
+          "image": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw9e06f72e/images/medium/PG.60114021.JJE99XX.PZ.jpg",
+          "maxPrice": 59,
+          "minPrice": 59
+        },
+        {
+          "ID": "25688325M",
+          "name": "Pencil Skirt",
+          "description": "Make way for this effortless skirt.  Add a blouse or suit jacket to complete your look.",
+          "image": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw8f25d17c/images/medium/PG.10235198.JJ3WCXX.PZ.jpg",
+          "maxPrice": 79,
+          "minPrice": 79
+        }
+      ]
+    }
   }
 }
