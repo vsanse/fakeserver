@@ -1779,6 +1779,495 @@
       }
     ],
     "new arrivals": {
+      "refinements": [
+        {
+          "displayName": "Category",
+          "isCategoryRefinement": true,
+          "isAttributeRefinement": false,
+          "isPriceRefinement": false,
+          "values": [
+            {
+              "id": "newarrivals",
+              "type": "category",
+              "displayValue": "New Arrivals",
+              "selected": true,
+              "selectable": true,
+              "title": "Currently Refined by Category: New Arrivals",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=root",
+              "subCategories": [
+                {
+                  "id": "newarrivals-womens",
+                  "type": "category",
+                  "displayValue": "Womens",
+                  "selected": false,
+                  "selectable": true,
+                  "title": "Refine by Category: Womens",
+                  "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals-womens",
+                  "subCategories": []
+                },
+                {
+                  "id": "newarrivals-mens",
+                  "type": "category",
+                  "displayValue": "Mens",
+                  "selected": false,
+                  "selectable": true,
+                  "title": "Refine by Category: Mens",
+                  "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals-mens",
+                  "subCategories": []
+                },
+                {
+                  "id": "newarrivals-electronics",
+                  "type": "category",
+                  "displayValue": "Electronics",
+                  "selected": false,
+                  "selectable": true,
+                  "title": "Refine by Category: Electronics",
+                  "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals-electronics",
+                  "subCategories": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "displayName": "Color",
+          "isCategoryRefinement": false,
+          "isAttributeRefinement": true,
+          "isPriceRefinement": false,
+          "values": [
+            {
+              "id": "refinementColor",
+              "type": "color",
+              "displayValue": "Beige",
+              "presentationId": "beige",
+              "selected": false,
+              "selectable": true,
+              "swatchId": "swatch-circle-beige",
+              "title": "Refine by Color: Beige",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&prefn1=refinementColor&prefv1=Beige"
+            },
+            {
+              "id": "refinementColor",
+              "type": "color",
+              "displayValue": "Black",
+              "presentationId": "black",
+              "selected": false,
+              "selectable": true,
+              "swatchId": "swatch-circle-black",
+              "title": "Refine by Color: Black",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&prefn1=refinementColor&prefv1=Black"
+            },
+            {
+              "id": "refinementColor",
+              "type": "color",
+              "displayValue": "Blue",
+              "presentationId": "blue",
+              "selected": false,
+              "selectable": true,
+              "swatchId": "swatch-circle-blue",
+              "title": "Refine by Color: Blue",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&prefn1=refinementColor&prefv1=Blue"
+            },
+            {
+              "id": "refinementColor",
+              "type": "color",
+              "displayValue": "Navy",
+              "presentationId": "navy",
+              "selected": false,
+              "selectable": true,
+              "swatchId": "swatch-circle-navy",
+              "title": "Refine by Color: Navy",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&prefn1=refinementColor&prefv1=Navy"
+            },
+            {
+              "id": "refinementColor",
+              "type": "color",
+              "displayValue": "Brown",
+              "presentationId": "brown",
+              "selected": false,
+              "selectable": true,
+              "swatchId": "swatch-circle-brown",
+              "title": "Refine by Color: Brown",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&prefn1=refinementColor&prefv1=Brown"
+            },
+            {
+              "id": "refinementColor",
+              "type": "color",
+              "displayValue": "Green",
+              "presentationId": "green",
+              "selected": false,
+              "selectable": true,
+              "swatchId": "swatch-circle-green",
+              "title": "Refine by Color: Green",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&prefn1=refinementColor&prefv1=Green"
+            },
+            {
+              "id": "refinementColor",
+              "type": "color",
+              "displayValue": "Grey",
+              "presentationId": "grey",
+              "selected": false,
+              "selectable": true,
+              "swatchId": "swatch-circle-grey",
+              "title": "Refine by Color: Grey",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&prefn1=refinementColor&prefv1=Grey"
+            },
+            {
+              "id": "refinementColor",
+              "type": "color",
+              "displayValue": "Orange",
+              "presentationId": "orange",
+              "selected": false,
+              "selectable": true,
+              "swatchId": "swatch-circle-orange",
+              "title": "Refine by Color: Orange",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&prefn1=refinementColor&prefv1=Orange"
+            },
+            {
+              "id": "refinementColor",
+              "type": "color",
+              "displayValue": "Pink",
+              "presentationId": "pink",
+              "selected": false,
+              "selectable": true,
+              "swatchId": "swatch-circle-pink",
+              "title": "Refine by Color: Pink",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&prefn1=refinementColor&prefv1=Pink"
+            },
+            {
+              "id": "refinementColor",
+              "type": "color",
+              "displayValue": "Purple",
+              "presentationId": "purple",
+              "selected": false,
+              "selectable": true,
+              "swatchId": "swatch-circle-purple",
+              "title": "Refine by Color: Purple",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&prefn1=refinementColor&prefv1=Purple"
+            },
+            {
+              "id": "refinementColor",
+              "type": "color",
+              "displayValue": "Red",
+              "presentationId": "red",
+              "selected": false,
+              "selectable": true,
+              "swatchId": "swatch-circle-red",
+              "title": "Refine by Color: Red",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&prefn1=refinementColor&prefv1=Red"
+            },
+            {
+              "id": "refinementColor",
+              "type": "color",
+              "displayValue": "White",
+              "presentationId": "white",
+              "selected": false,
+              "selectable": true,
+              "swatchId": "swatch-circle-white",
+              "title": "Refine by Color: White",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&prefn1=refinementColor&prefv1=White"
+            },
+            {
+              "id": "refinementColor",
+              "type": "color",
+              "displayValue": "Yellow",
+              "presentationId": "yellow",
+              "selected": false,
+              "selectable": true,
+              "swatchId": "swatch-circle-yellow",
+              "title": "Refine by Color: Yellow",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&prefn1=refinementColor&prefv1=Yellow"
+            },
+            {
+              "id": "refinementColor",
+              "type": "color",
+              "displayValue": "Miscellaneous",
+              "presentationId": "miscellaneous",
+              "selected": false,
+              "selectable": true,
+              "swatchId": "swatch-circle-miscellaneous",
+              "title": "Refine by Color: Miscellaneous",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&prefn1=refinementColor&prefv1=Miscellaneous"
+            }
+          ]
+        },
+        {
+          "displayName": "Price",
+          "isCategoryRefinement": false,
+          "isAttributeRefinement": false,
+          "isPriceRefinement": true,
+          "values": [
+            {
+              "displayValue": "$20 - $49.99",
+              "selected": false,
+              "title": "Refine by Price: $20 - $49.99",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&pmin=20%2e00&pmax=50%2e00"
+            },
+            {
+              "displayValue": "$50 - $99.99",
+              "selected": false,
+              "title": "Refine by Price: $50 - $99.99",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&pmin=50%2e00&pmax=100%2e00"
+            },
+            {
+              "displayValue": "$100 - $499.99",
+              "selected": false,
+              "title": "Refine by Price: $100 - $499.99",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&pmin=100%2e00&pmax=500%2e00"
+            },
+            {
+              "displayValue": "$500 - $999.99",
+              "selected": false,
+              "title": "Refine by Price: $500 - $999.99",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&pmin=500%2e00&pmax=1%2c000%2e00"
+            },
+            {
+              "displayValue": "$1,000 - $1,499.99",
+              "selected": false,
+              "title": "Refine by Price: $1,000 - $1,499.99",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&pmin=1%2c000%2e00&pmax=1%2c500%2e00"
+            },
+            {
+              "displayValue": "$2,500 - $4,999.99",
+              "selected": false,
+              "title": "Refine by Price: $2,500 - $4,999.99",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&pmin=2%2c500%2e00&pmax=5%2c000%2e00"
+            }
+          ]
+        },
+        {
+          "displayName": "New Arrival",
+          "isCategoryRefinement": false,
+          "isAttributeRefinement": true,
+          "isPriceRefinement": false,
+          "values": [
+            {
+              "id": "isNew",
+              "type": "boolean",
+              "displayValue": "New Arrival",
+              "selected": false,
+              "selectable": true,
+              "title": "Refine by New Arrival: New Arrival",
+              "url": "/on/demandware.store/Sites-RefArch-Site/en_US/Search-ShowAjax?cgid=newarrivals&prefn1=isNew&prefv1=true"
+            }
+          ]
+        }
+      ],
+      "showMore": "https://sapient5-evaluation-dw.demandware.net/on/demandware.store/Sites-RefArch-Site/en_US/Search-UpdateGrid?cgid=newarrivals&start=12&sz=12",
+      "categories": [
+        {
+          "name": "New Arrivals",
+          "url": "/s/RefArch/new%20arrivals/?lang=en_US",
+          "id": "newarrivals",
+          "subCategories": [
+            {
+              "name": "Womens",
+              "url": "/s/RefArch/new%20arrivals/womens/?lang=en_US",
+              "id": "newarrivals-womens"
+            },
+            {
+              "name": "Mens",
+              "url": "/s/RefArch/new%20arrivals/mens/?lang=en_US",
+              "id": "newarrivals-mens"
+            },
+            {
+              "name": "Electronics",
+              "url": "/s/RefArch/new%20arrivals/electronics/?lang=en_US",
+              "id": "newarrivals-electronics"
+            }
+          ],
+          "complexSubCategories": false
+        },
+        {
+          "name": "Womens",
+          "url": "/s/RefArch/womens/?lang=en_US",
+          "id": "womens",
+          "subCategories": [
+            {
+              "name": "Clothing",
+              "url": "/s/RefArch/womens/clothing/?lang=en_US",
+              "id": "womens-clothing",
+              "subCategories": [
+                {
+                  "name": "Outfits",
+                  "url": "/s/RefArch/womens/clothing/outfits/?lang=en_US",
+                  "id": "womens-outfits"
+                },
+                {
+                  "name": "Tops",
+                  "url": "/s/RefArch/womens/clothing/tops/?lang=en_US",
+                  "id": "womens-clothing-tops"
+                },
+                {
+                  "name": "Dresses",
+                  "url": "/s/RefArch/womens/clothing/dresses/?lang=en_US",
+                  "id": "womens-clothing-dresses"
+                },
+                {
+                  "name": "Bottoms",
+                  "url": "/s/RefArch/womens/clothing/bottoms/?lang=en_US",
+                  "id": "womens-clothing-bottoms"
+                },
+                {
+                  "name": "Jackets & Coats",
+                  "url": "/s/RefArch/womens/clothing/jackets%20%26%20coats/?lang=en_US",
+                  "id": "womens-clothing-jackets"
+                },
+                {
+                  "name": "Feeling Red",
+                  "url": "/s/RefArch/womens/clothing/feeling%20red/?lang=en_US",
+                  "id": "womens-clothing-feeling-red"
+                }
+              ],
+              "complexSubCategories": false
+            },
+            {
+              "name": "Jewelry",
+              "url": "/s/RefArch/womens/jewelry/?lang=en_US",
+              "id": "womens-jewelry",
+              "subCategories": [
+                {
+                  "name": "Earrings",
+                  "url": "/s/RefArch/womens/jewelry/earrings/?lang=en_US",
+                  "id": "womens-jewelry-earrings"
+                },
+                {
+                  "name": "Bracelets",
+                  "url": "/s/RefArch/womens/jewelry/bracelets/?lang=en_US",
+                  "id": "womens-jewelry-bracelets"
+                },
+                {
+                  "name": "Necklaces",
+                  "url": "/s/RefArch/womens/jewelry/necklaces/?lang=en_US",
+                  "id": "womens-jewelry-necklaces"
+                }
+              ],
+              "complexSubCategories": false
+            },
+            {
+              "name": "Accessories",
+              "url": "/s/RefArch/womens/accessories/?lang=en_US",
+              "id": "womens-accessories",
+              "subCategories": [
+                {
+                  "name": "Scarves",
+                  "url": "/s/RefArch/womens/accessories/scarves/?lang=en_US",
+                  "id": "womens-accessories-scarves"
+                },
+                {
+                  "name": "Shoes",
+                  "url": "/s/RefArch/womens/accessories/shoes/?lang=en_US",
+                  "id": "womens-accessories-shoes"
+                }
+              ],
+              "complexSubCategories": false
+            }
+          ],
+          "complexSubCategories": true
+        },
+        {
+          "name": "Mens",
+          "url": "/s/RefArch/mens/?lang=en_US",
+          "id": "mens",
+          "subCategories": [
+            {
+              "name": "Clothing",
+              "url": "/s/RefArch/mens/clothing/?lang=en_US",
+              "id": "mens-clothing",
+              "subCategories": [
+                {
+                  "name": "Suits",
+                  "url": "/s/RefArch/mens/clothing/suits/?lang=en_US",
+                  "id": "mens-clothing-suits"
+                },
+                {
+                  "name": "Jackets & Coats",
+                  "url": "/s/RefArch/mens/clothing/jackets%20%26%20coats/?lang=en_US",
+                  "id": "mens-clothing-jackets"
+                },
+                {
+                  "name": "Dress Shirts",
+                  "url": "/s/RefArch/mens/clothing/dress%20shirts/?lang=en_US",
+                  "id": "mens-clothing-dress-shirts"
+                },
+                {
+                  "name": "Shorts",
+                  "url": "/s/RefArch/mens/clothing/shorts/?lang=en_US",
+                  "id": "mens-clothing-shorts"
+                },
+                {
+                  "name": "Pants",
+                  "url": "/s/RefArch/mens/clothing/pants/?lang=en_US",
+                  "id": "mens-clothing-pants"
+                }
+              ],
+              "complexSubCategories": false
+            },
+            {
+              "name": "Accessories",
+              "url": "/s/RefArch/mens/accessories/?lang=en_US",
+              "id": "mens-accessories",
+              "subCategories": [
+                {
+                  "name": "Ties",
+                  "url": "/s/RefArch/mens/accessories/ties/?lang=en_US",
+                  "id": "mens-accessories-ties"
+                },
+                {
+                  "name": "Gloves",
+                  "url": "/s/RefArch/mens/accessories/gloves/?lang=en_US",
+                  "id": "mens-accessories-gloves"
+                },
+                {
+                  "name": "Luggage",
+                  "url": "/s/RefArch/mens/accessories/luggage/?lang=en_US",
+                  "id": "mens-accessories-luggage"
+                }
+              ],
+              "complexSubCategories": false
+            }
+          ],
+          "complexSubCategories": true
+        },
+        {
+          "name": "Electronics",
+          "url": "/s/RefArch/electronics/?lang=en_US",
+          "id": "electronics",
+          "subCategories": [
+            {
+              "name": "Televisions",
+              "url": "/s/RefArch/electronics/televisions/?lang=en_US",
+              "id": "electronics-televisions"
+            },
+            {
+              "name": "Digital Cameras",
+              "url": "/s/RefArch/electronics/digital%20cameras/?lang=en_US",
+              "id": "electronics-digital-cameras"
+            },
+            {
+              "name": "iPod & MP3 Players",
+              "url": "/s/RefArch/electronics/ipod%20%26%20mp3%20players/?lang=en_US",
+              "id": "electronics-digital-media-players"
+            },
+            {
+              "name": "GPS Navigation",
+              "url": "/s/RefArch/electronics/gps%20navigation/?lang=en_US",
+              "id": "electronics-gps-units"
+            },
+            {
+              "name": "Gaming",
+              "url": "/s/RefArch/electronics/gaming/?lang=en_US",
+              "id": "electronics-gaming"
+            }
+          ],
+          "complexSubCategories": false
+        },
+        {
+          "name": "Top Sellers",
+          "url": {},
+          "id": "top-seller"
+        }
+      ],
       "products": [
         {
           "uuid": "3db5cf60342135b855bf9dd602",
@@ -2392,221 +2881,6 @@
               ]
             }
           ]
-        }
-      ],
-      "showMore": "https://sapient5-evaluation-dw.demandware.net/on/demandware.store/Sites-RefArch-Site/en_US/Search-UpdateGrid?cgid=newarrivals&start=12&sz=12",
-      "categories": [
-        {
-          "name": "New Arrivals",
-          "url": "/s/RefArch/new%20arrivals/?lang=en_US",
-          "id": "newarrivals",
-          "subCategories": [
-            {
-              "name": "Womens",
-              "url": "/s/RefArch/new%20arrivals/womens/?lang=en_US",
-              "id": "newarrivals-womens"
-            },
-            {
-              "name": "Mens",
-              "url": "/s/RefArch/new%20arrivals/mens/?lang=en_US",
-              "id": "newarrivals-mens"
-            },
-            {
-              "name": "Electronics",
-              "url": "/s/RefArch/new%20arrivals/electronics/?lang=en_US",
-              "id": "newarrivals-electronics"
-            }
-          ],
-          "complexSubCategories": false
-        },
-        {
-          "name": "Womens",
-          "url": "/s/RefArch/womens/?lang=en_US",
-          "id": "womens",
-          "subCategories": [
-            {
-              "name": "Clothing",
-              "url": "/s/RefArch/womens/clothing/?lang=en_US",
-              "id": "womens-clothing",
-              "subCategories": [
-                {
-                  "name": "Outfits",
-                  "url": "/s/RefArch/womens/clothing/outfits/?lang=en_US",
-                  "id": "womens-outfits"
-                },
-                {
-                  "name": "Tops",
-                  "url": "/s/RefArch/womens/clothing/tops/?lang=en_US",
-                  "id": "womens-clothing-tops"
-                },
-                {
-                  "name": "Dresses",
-                  "url": "/s/RefArch/womens/clothing/dresses/?lang=en_US",
-                  "id": "womens-clothing-dresses"
-                },
-                {
-                  "name": "Bottoms",
-                  "url": "/s/RefArch/womens/clothing/bottoms/?lang=en_US",
-                  "id": "womens-clothing-bottoms"
-                },
-                {
-                  "name": "Jackets & Coats",
-                  "url": "/s/RefArch/womens/clothing/jackets%20%26%20coats/?lang=en_US",
-                  "id": "womens-clothing-jackets"
-                },
-                {
-                  "name": "Feeling Red",
-                  "url": "/s/RefArch/womens/clothing/feeling%20red/?lang=en_US",
-                  "id": "womens-clothing-feeling-red"
-                }
-              ],
-              "complexSubCategories": false
-            },
-            {
-              "name": "Jewelry",
-              "url": "/s/RefArch/womens/jewelry/?lang=en_US",
-              "id": "womens-jewelry",
-              "subCategories": [
-                {
-                  "name": "Earrings",
-                  "url": "/s/RefArch/womens/jewelry/earrings/?lang=en_US",
-                  "id": "womens-jewelry-earrings"
-                },
-                {
-                  "name": "Bracelets",
-                  "url": "/s/RefArch/womens/jewelry/bracelets/?lang=en_US",
-                  "id": "womens-jewelry-bracelets"
-                },
-                {
-                  "name": "Necklaces",
-                  "url": "/s/RefArch/womens/jewelry/necklaces/?lang=en_US",
-                  "id": "womens-jewelry-necklaces"
-                }
-              ],
-              "complexSubCategories": false
-            },
-            {
-              "name": "Accessories",
-              "url": "/s/RefArch/womens/accessories/?lang=en_US",
-              "id": "womens-accessories",
-              "subCategories": [
-                {
-                  "name": "Scarves",
-                  "url": "/s/RefArch/womens/accessories/scarves/?lang=en_US",
-                  "id": "womens-accessories-scarves"
-                },
-                {
-                  "name": "Shoes",
-                  "url": "/s/RefArch/womens/accessories/shoes/?lang=en_US",
-                  "id": "womens-accessories-shoes"
-                }
-              ],
-              "complexSubCategories": false
-            }
-          ],
-          "complexSubCategories": true
-        },
-        {
-          "name": "Mens",
-          "url": "/s/RefArch/mens/?lang=en_US",
-          "id": "mens",
-          "subCategories": [
-            {
-              "name": "Clothing",
-              "url": "/s/RefArch/mens/clothing/?lang=en_US",
-              "id": "mens-clothing",
-              "subCategories": [
-                {
-                  "name": "Suits",
-                  "url": "/s/RefArch/mens/clothing/suits/?lang=en_US",
-                  "id": "mens-clothing-suits"
-                },
-                {
-                  "name": "Jackets & Coats",
-                  "url": "/s/RefArch/mens/clothing/jackets%20%26%20coats/?lang=en_US",
-                  "id": "mens-clothing-jackets"
-                },
-                {
-                  "name": "Dress Shirts",
-                  "url": "/s/RefArch/mens/clothing/dress%20shirts/?lang=en_US",
-                  "id": "mens-clothing-dress-shirts"
-                },
-                {
-                  "name": "Shorts",
-                  "url": "/s/RefArch/mens/clothing/shorts/?lang=en_US",
-                  "id": "mens-clothing-shorts"
-                },
-                {
-                  "name": "Pants",
-                  "url": "/s/RefArch/mens/clothing/pants/?lang=en_US",
-                  "id": "mens-clothing-pants"
-                }
-              ],
-              "complexSubCategories": false
-            },
-            {
-              "name": "Accessories",
-              "url": "/s/RefArch/mens/accessories/?lang=en_US",
-              "id": "mens-accessories",
-              "subCategories": [
-                {
-                  "name": "Ties",
-                  "url": "/s/RefArch/mens/accessories/ties/?lang=en_US",
-                  "id": "mens-accessories-ties"
-                },
-                {
-                  "name": "Gloves",
-                  "url": "/s/RefArch/mens/accessories/gloves/?lang=en_US",
-                  "id": "mens-accessories-gloves"
-                },
-                {
-                  "name": "Luggage",
-                  "url": "/s/RefArch/mens/accessories/luggage/?lang=en_US",
-                  "id": "mens-accessories-luggage"
-                }
-              ],
-              "complexSubCategories": false
-            }
-          ],
-          "complexSubCategories": true
-        },
-        {
-          "name": "Electronics",
-          "url": "/s/RefArch/electronics/?lang=en_US",
-          "id": "electronics",
-          "subCategories": [
-            {
-              "name": "Televisions",
-              "url": "/s/RefArch/electronics/televisions/?lang=en_US",
-              "id": "electronics-televisions"
-            },
-            {
-              "name": "Digital Cameras",
-              "url": "/s/RefArch/electronics/digital%20cameras/?lang=en_US",
-              "id": "electronics-digital-cameras"
-            },
-            {
-              "name": "iPod & MP3 Players",
-              "url": "/s/RefArch/electronics/ipod%20%26%20mp3%20players/?lang=en_US",
-              "id": "electronics-digital-media-players"
-            },
-            {
-              "name": "GPS Navigation",
-              "url": "/s/RefArch/electronics/gps%20navigation/?lang=en_US",
-              "id": "electronics-gps-units"
-            },
-            {
-              "name": "Gaming",
-              "url": "/s/RefArch/electronics/gaming/?lang=en_US",
-              "id": "electronics-gaming"
-            }
-          ],
-          "complexSubCategories": false
-        },
-        {
-          "name": "Top Sellers",
-          "url": {},
-          "id": "top-seller"
         }
       ]
     }
