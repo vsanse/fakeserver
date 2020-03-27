@@ -1778,103 +1778,835 @@
         "id": "top-seller"
       }
     ],
-    "newarrivals": {
+    "new arrivals": {
       "products": [
         {
-          "ID": "sony-ps3-bundleM",
-          "name": "Playstation 3 Bundle",
-          "description": "",
-          "image": "/on/demandware.static/-/Sites-electronics-m-catalog/default/dwac28c193/images/medium/sony-ps3-bundle.jpg",
-          "maxPrice": 449,
-          "minPrice": 449
+          "uuid": "3db5cf60342135b855bf9dd602",
+          "id": "sony-ps3-bundleM",
+          "productName": "Playstation 3 Bundle",
+          "productType": "bundle",
+          "brand": "Sony",
+          "price": {
+            "sales": {
+              "value": 449,
+              "currency": "USD",
+              "formatted": "$449.00",
+              "decimalPrice": "449.00"
+            },
+            "list": null
+          },
+          "images": {
+            "medium": [
+              {
+                "alt": "Playstation 3 Bundle, , medium",
+                "url": "/on/demandware.static/-/Sites-electronics-m-catalog/default/dwac28c193/images/medium/sony-ps3-bundle.jpg",
+                "title": "Playstation 3 Bundle, ",
+                "index": "0",
+                "absURL": "https://sapient5-evaluation-dw.demandware.net/on/demandware.static/-/Sites-electronics-m-catalog/default/dwac28c193/images/medium/sony-ps3-bundle.jpg"
+              }
+            ]
+          },
+          "rating": 3.7,
+          "variationAttributes": [
+            {
+              "attributeId": "color",
+              "id": "color",
+              "swatchable": true,
+              "values": []
+            }
+          ]
         },
         {
-          "ID": "canon-powershot-sd990-isM",
-          "name": "Canon PowerShot SD990 Digital Point and Shoot Camera",
-          "description": " When you're ready to experience a higher level of pace-setting technology and image brilliance, the PowerShot SD990 IS Digital ELPH is ready for you. One glance at the sleek, sculptured profile, and you know this is a camera driven by design and features. Style without compromise is the perfect complement to the ELPH model's most advanced feature lineup - engineering leadership that opens your eyes and imagination to the real potential and boundless pleasures of photography. ",
-          "image": "/on/demandware.static/-/Sites-electronics-m-catalog/default/dw663f9bfa/images/medium/canon-powershot-sd990-is.jpg",
-          "maxPrice": 399.99,
-          "minPrice": 399.99
+          "uuid": "23091b38cdb175e2bf5fe99358",
+          "id": "canon-powershot-sd990-isM",
+          "productName": "Canon PowerShot SD990 Digital Point and Shoot Camera",
+          "productType": "optionProduct",
+          "brand": "Canon",
+          "price": {
+            "sales": {
+              "value": 399.99,
+              "currency": "USD",
+              "formatted": "$399.99",
+              "decimalPrice": "399.99"
+            },
+            "list": null
+          },
+          "images": {
+            "medium": [
+              {
+                "alt": "Canon PowerShot SD990 Digital Point and Shoot Camera, , medium",
+                "url": "/on/demandware.static/-/Sites-electronics-m-catalog/default/dw663f9bfa/images/medium/canon-powershot-sd990-is.jpg",
+                "title": "Canon PowerShot SD990 Digital Point and Shoot Camera, ",
+                "index": "0",
+                "absURL": "https://sapient5-evaluation-dw.demandware.net/on/demandware.static/-/Sites-electronics-m-catalog/default/dw663f9bfa/images/medium/canon-powershot-sd990-is.jpg"
+              }
+            ]
+          },
+          "rating": 5,
+          "variationAttributes": [
+            {
+              "attributeId": "color",
+              "id": "color",
+              "swatchable": true,
+              "values": []
+            }
+          ]
         },
         {
-          "ID": "25502452M",
-          "name": "Slim Pant",
-          "description": "This classic narrow leg pant will be an instant everyday staple. Pair it with a great Commerce Cloud Store top and you are set to go!",
-          "image": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw760e55ea/images/medium/PG.10202628.JJJA4XX.PZ.jpg",
-          "maxPrice": 64.99,
-          "minPrice": 64.99
+          "uuid": "b09843d485bc210fbf78582bd8",
+          "id": "25502452M",
+          "productName": "Slim Pant",
+          "productType": "master",
+          "brand": null,
+          "price": {
+            "sales": {
+              "value": 64.99,
+              "currency": "USD",
+              "formatted": "$64.99",
+              "decimalPrice": "64.99"
+            },
+            "list": {
+              "value": 109,
+              "currency": "USD",
+              "formatted": "$109.00",
+              "decimalPrice": "109.00"
+            }
+          },
+          "images": {
+            "medium": [
+              {
+                "alt": "Slim Pant, , medium",
+                "url": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw760e55ea/images/medium/PG.10202628.JJJA4XX.PZ.jpg",
+                "title": "Slim Pant, ",
+                "index": "0",
+                "absURL": "https://sapient5-evaluation-dw.demandware.net/on/demandware.static/-/Sites-apparel-m-catalog/default/dw760e55ea/images/medium/PG.10202628.JJJA4XX.PZ.jpg"
+              }
+            ]
+          },
+          "rating": 3.7,
+          "variationAttributes": [
+            {
+              "attributeId": "color",
+              "id": "color",
+              "swatchable": true,
+              "values": [
+                {
+                  "id": "JJJA4XX",
+                  "description": null,
+                  "displayValue": "Brown",
+                  "value": "JJJA4XX",
+                  "selectable": true,
+                  "selected": true,
+                  "images": {
+                    "swatch": [
+                      {
+                        "alt": "Slim Pant, Brown, swatch",
+                        "url": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw2057bcf7/images/swatch/PG.10202628.JJJA4XX.CP.jpg",
+                        "title": "Slim Pant, Brown"
+                      }
+                    ]
+                  },
+                  "url": "/s/RefArch/slim-pant/25502452M.html?lang=en_US&dwvar_25502452M_color=JJJA4XX"
+                }
+              ]
+            }
+          ]
         },
         {
-          "ID": "toshiba-meu202-bkM",
-          "name": "Toshiba GigaBeat MEU202-BK 2GB Digital Media Player",
-          "description": "The Beat generation has arrived with Toshiba's gigabeat U-Series Portable Media Player the is light enough to keep you moving and packed with more than enough to keep you listening. Up to 20 hours of audio and large storage area, supporting up to 2GB of flash memory media , makes the gigabeat U-Series the stylish and fun alternative media player for your favorite music and photo enjoyment.",
-          "image": "/on/demandware.static/-/Sites-electronics-m-catalog/default/dwa3078b4b/images/medium/toshiba-meu202-bk.jpg",
-          "maxPrice": 53.99,
-          "minPrice": 53.99
+          "uuid": "4dedbb8e349a9d164530bee664",
+          "id": "toshiba-meu202-bkM",
+          "productName": "Toshiba GigaBeat MEU202-BK 2GB Digital Media Player",
+          "productType": "standard",
+          "brand": "Toshiba",
+          "price": {
+            "sales": {
+              "value": 53.99,
+              "currency": "USD",
+              "formatted": "$53.99",
+              "decimalPrice": "53.99"
+            },
+            "list": null
+          },
+          "images": {
+            "medium": [
+              {
+                "alt": "Toshiba GigaBeat MEU202-BK 2GB Digital Media Player, , medium",
+                "url": "/on/demandware.static/-/Sites-electronics-m-catalog/default/dwa3078b4b/images/medium/toshiba-meu202-bk.jpg",
+                "title": "Toshiba GigaBeat MEU202-BK 2GB Digital Media Player, ",
+                "index": "0",
+                "absURL": "https://sapient5-evaluation-dw.demandware.net/on/demandware.static/-/Sites-electronics-m-catalog/default/dwa3078b4b/images/medium/toshiba-meu202-bk.jpg"
+              }
+            ]
+          },
+          "rating": 3.4,
+          "variationAttributes": [
+            {
+              "attributeId": "color",
+              "id": "color",
+              "swatchable": true,
+              "values": []
+            }
+          ]
         },
         {
-          "ID": "82936941M",
-          "name": "Modern Blazer",
-          "description": "This modern sportcoat brings versatility to your blazer collection. Made in our wool silk end-on-end suiting.",
-          "image": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw72fbc82d/images/medium/B0171103_BDA_0.jpg",
-          "maxPrice": 495,
-          "minPrice": 495
+          "uuid": "29f9016cac923be1fae41266f9",
+          "id": "82936941M",
+          "productName": "Modern Blazer",
+          "productType": "master",
+          "brand": null,
+          "price": {
+            "sales": {
+              "value": 495,
+              "currency": "USD",
+              "formatted": "$495.00",
+              "decimalPrice": "495.00"
+            },
+            "list": null
+          },
+          "images": {
+            "medium": [
+              {
+                "alt": "Modern Blazer, , medium",
+                "url": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw72fbc82d/images/medium/B0171103_BDA_0.jpg",
+                "title": "Modern Blazer, ",
+                "index": "0",
+                "absURL": "https://sapient5-evaluation-dw.demandware.net/on/demandware.static/-/Sites-apparel-m-catalog/default/dw72fbc82d/images/medium/B0171103_BDA_0.jpg"
+              }
+            ]
+          },
+          "rating": 5,
+          "variationAttributes": [
+            {
+              "attributeId": "color",
+              "id": "color",
+              "swatchable": true,
+              "values": [
+                {
+                  "id": "BDA",
+                  "description": null,
+                  "displayValue": "Black",
+                  "value": "BDA",
+                  "selectable": true,
+                  "selected": true,
+                  "images": {
+                    "swatch": [
+                      {
+                        "alt": "Modern Blazer, Black, swatch",
+                        "url": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw7aedab24/images/swatch/B0171103_BDA_sw.jpg",
+                        "title": "Modern Blazer, Black"
+                      }
+                    ]
+                  },
+                  "url": "/s/RefArch/mens-modern-blazzer/82936941M.html?lang=en_US&dwvar_82936941M_color=BDA"
+                }
+              ]
+            }
+          ]
         },
         {
-          "ID": "12416789M",
-          "name": "Straight Leg Trousers",
-          "description": "A menswear favorite, these straight leg trousers are to the point when it comes to business dressing. Made in our lightweight combed stretch cotton suiting with pinstripe pattern.",
-          "image": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw1a6b7a7e/images/medium/B0274206_GYX_0.jpg",
-          "maxPrice": 195,
-          "minPrice": 195
+          "uuid": "45c3397ac7430ddce633cf598c",
+          "id": "12416789M",
+          "productName": "Straight Leg Trousers",
+          "productType": "master",
+          "brand": null,
+          "price": {
+            "sales": {
+              "value": 195,
+              "currency": "USD",
+              "formatted": "$195.00",
+              "decimalPrice": "195.00"
+            },
+            "list": null
+          },
+          "images": {
+            "medium": [
+              {
+                "alt": "Straight Leg Trousers, , medium",
+                "url": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw1a6b7a7e/images/medium/B0274206_GYX_0.jpg",
+                "title": "Straight Leg Trousers, ",
+                "index": "0",
+                "absURL": "https://sapient5-evaluation-dw.demandware.net/on/demandware.static/-/Sites-apparel-m-catalog/default/dw1a6b7a7e/images/medium/B0274206_GYX_0.jpg"
+              }
+            ]
+          },
+          "rating": 5,
+          "variationAttributes": [
+            {
+              "attributeId": "color",
+              "id": "color",
+              "swatchable": true,
+              "values": [
+                {
+                  "id": "GYX",
+                  "description": null,
+                  "displayValue": "Navy",
+                  "value": "GYX",
+                  "selectable": true,
+                  "selected": true,
+                  "images": {
+                    "swatch": [
+                      {
+                        "alt": "Straight Leg Trousers, Navy, swatch",
+                        "url": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw136b0e5a/images/swatch/B0274206_GYX_sw.jpg",
+                        "title": "Straight Leg Trousers, Navy"
+                      }
+                    ]
+                  },
+                  "url": "/s/RefArch/mens-pants-straight-leg-trousers/12416789M.html?lang=en_US&dwvar_12416789M_color=GYX"
+                }
+              ]
+            }
+          ]
         },
         {
-          "ID": "32416783M",
-          "name": "Straight Leg Pants",
-          "description": "Not your typical trousers, these straight leg pants are the perfect casual-to-dressy building block. Pair with a tee or a refined button-down. Made in our washed delave cotton with sateen finish.",
-          "image": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw4f2f9a73/images/medium/B0274210_MDR_0.jpg",
-          "maxPrice": 195,
-          "minPrice": 195
+          "uuid": "b123382ed3e3359981c6535832",
+          "id": "32416783M",
+          "productName": "Straight Leg Pants",
+          "productType": "master",
+          "brand": null,
+          "price": {
+            "sales": {
+              "value": 195,
+              "currency": "USD",
+              "formatted": "$195.00",
+              "decimalPrice": "195.00"
+            },
+            "list": null
+          },
+          "images": {
+            "medium": [
+              {
+                "alt": "Straight Leg Pants, , medium",
+                "url": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw4f2f9a73/images/medium/B0274210_MDR_0.jpg",
+                "title": "Straight Leg Pants, ",
+                "index": "0",
+                "absURL": "https://sapient5-evaluation-dw.demandware.net/on/demandware.static/-/Sites-apparel-m-catalog/default/dw4f2f9a73/images/medium/B0274210_MDR_0.jpg"
+              }
+            ]
+          },
+          "rating": 3.6,
+          "variationAttributes": [
+            {
+              "attributeId": "color",
+              "id": "color",
+              "swatchable": true,
+              "values": [
+                {
+                  "id": "MDR",
+                  "description": null,
+                  "displayValue": "Gray",
+                  "value": "MDR",
+                  "selectable": true,
+                  "selected": true,
+                  "images": {
+                    "swatch": [
+                      {
+                        "alt": "Straight Leg Pants, Gray, swatch",
+                        "url": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dwbdd6e99e/images/swatch/B0274210_MDR_sw.jpg",
+                        "title": "Straight Leg Pants, Gray"
+                      }
+                    ]
+                  },
+                  "url": "/s/RefArch/mens-straight-leg-pants/32416783M.html?lang=en_US&dwvar_32416783M_color=MDR"
+                }
+              ]
+            }
+          ]
         },
         {
-          "ID": "25592300M",
-          "name": "Cuffed Cargo Pant",
-          "description": "Our best selling cargo pant is a must have wardrobe completer.  We love the way it looks with a great Commerce Cloud Store top!",
-          "image": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw3c0525e7/images/medium/PG.10226893.JJI15XX.PZ.jpg",
-          "maxPrice": 74,
-          "minPrice": 74
+          "uuid": "6c14b5f90b04a6f4d40db56e1f",
+          "id": "25592300M",
+          "productName": "Cuffed Cargo Pant",
+          "productType": "master",
+          "brand": null,
+          "price": {
+            "sales": {
+              "value": 74,
+              "currency": "USD",
+              "formatted": "$74.00",
+              "decimalPrice": "74.00"
+            },
+            "list": null
+          },
+          "images": {
+            "medium": [
+              {
+                "alt": "Cuffed Cargo Pant, , medium",
+                "url": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw3c0525e7/images/medium/PG.10226893.JJI15XX.PZ.jpg",
+                "title": "Cuffed Cargo Pant, ",
+                "index": "0",
+                "absURL": "https://sapient5-evaluation-dw.demandware.net/on/demandware.static/-/Sites-apparel-m-catalog/default/dw3c0525e7/images/medium/PG.10226893.JJI15XX.PZ.jpg"
+              }
+            ]
+          },
+          "rating": 4.8,
+          "variationAttributes": [
+            {
+              "attributeId": "color",
+              "id": "color",
+              "swatchable": true,
+              "values": [
+                {
+                  "id": "JJI15XX",
+                  "description": null,
+                  "displayValue": "White",
+                  "value": "JJI15XX",
+                  "selectable": true,
+                  "selected": true,
+                  "images": {
+                    "swatch": [
+                      {
+                        "alt": "Cuffed Cargo Pant, White, swatch",
+                        "url": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dwdb8d21fe/images/swatch/PG.10226893.JJI15XX.CP.jpg",
+                        "title": "Cuffed Cargo Pant, White"
+                      }
+                    ]
+                  },
+                  "url": "/s/RefArch/cuffed-cargo-pant/25592300M.html?lang=en_US&dwvar_25592300M_color=JJI15XX"
+                }
+              ]
+            }
+          ]
         },
         {
-          "ID": "25686544M",
-          "name": "Black Flat Front Wool Suit",
-          "description": "This suit is great for any occasion. Add a shirt and a tie and you are ready for any event. ",
-          "image": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw37d7bb9f/images/medium/PG.52001DAN84Q.BLACKWL.PZ.jpg",
-          "maxPrice": 299.99,
-          "minPrice": 299.99
+          "uuid": "d1818ab2a14e596e4f4cb6d965",
+          "id": "25686544M",
+          "productName": "Black Flat Front Wool Suit",
+          "productType": "master",
+          "brand": null,
+          "price": {
+            "sales": {
+              "value": 299.99,
+              "currency": "USD",
+              "formatted": "$299.99",
+              "decimalPrice": "299.99"
+            },
+            "list": {
+              "value": 500,
+              "currency": "USD",
+              "formatted": "$500.00",
+              "decimalPrice": "500.00"
+            }
+          },
+          "images": {
+            "medium": [
+              {
+                "alt": "Black Flat Front Wool Suit, , medium",
+                "url": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw37d7bb9f/images/medium/PG.52001DAN84Q.BLACKWL.PZ.jpg",
+                "title": "Black Flat Front Wool Suit, ",
+                "index": "0",
+                "absURL": "https://sapient5-evaluation-dw.demandware.net/on/demandware.static/-/Sites-apparel-m-catalog/default/dw37d7bb9f/images/medium/PG.52001DAN84Q.BLACKWL.PZ.jpg"
+              }
+            ]
+          },
+          "rating": 3.2,
+          "variationAttributes": [
+            {
+              "attributeId": "color",
+              "id": "color",
+              "swatchable": true,
+              "values": [
+                {
+                  "id": "BLACKWL",
+                  "description": null,
+                  "displayValue": "Black",
+                  "value": "BLACKWL",
+                  "selectable": true,
+                  "selected": true,
+                  "images": {
+                    "swatch": [
+                      {
+                        "alt": "Black Flat Front Wool Suit, Black, swatch",
+                        "url": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw1aea57a5/images/swatch/PG.52001DAN84Q.BLACKWL.CP.jpg",
+                        "title": "Black Flat Front Wool Suit, Black"
+                      }
+                    ]
+                  },
+                  "url": "/s/RefArch/black-flat-front-wool-suit/25686544M.html?lang=en_US&dwvar_25686544M_color=BLACKWL"
+                }
+              ]
+            }
+          ]
         },
         {
-          "ID": "25592590M",
-          "name": "Full Skirt",
-          "description": "This stylish full skirt offers a sophisticated look in a great fabric as well. Add a floral printed tank to brighten up this look for spring.",
-          "image": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dwdc417fc6/images/medium/PG.10238454.JJV02XX.PZ.jpg",
-          "maxPrice": 109,
-          "minPrice": 109
+          "uuid": "f6f314a6d8ce3ed6aa250cf829",
+          "id": "25592590M",
+          "productName": "Full Skirt",
+          "productType": "master",
+          "brand": null,
+          "price": {
+            "sales": {
+              "value": 109,
+              "currency": "USD",
+              "formatted": "$109.00",
+              "decimalPrice": "109.00"
+            },
+            "list": null
+          },
+          "images": {
+            "medium": [
+              {
+                "alt": "Full Skirt, , medium",
+                "url": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dwdc417fc6/images/medium/PG.10238454.JJV02XX.PZ.jpg",
+                "title": "Full Skirt, ",
+                "index": "0",
+                "absURL": "https://sapient5-evaluation-dw.demandware.net/on/demandware.static/-/Sites-apparel-m-catalog/default/dwdc417fc6/images/medium/PG.10238454.JJV02XX.PZ.jpg"
+              }
+            ]
+          },
+          "rating": 3.9,
+          "variationAttributes": [
+            {
+              "attributeId": "color",
+              "id": "color",
+              "swatchable": true,
+              "values": [
+                {
+                  "id": "JJV02XX",
+                  "description": null,
+                  "displayValue": "Tundra",
+                  "value": "JJV02XX",
+                  "selectable": true,
+                  "selected": true,
+                  "images": {
+                    "swatch": [
+                      {
+                        "alt": "Full Skirt, Tundra, swatch",
+                        "url": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw7476abbf/images/swatch/PG.10238454.JJV02XX.CP.jpg",
+                        "title": "Full Skirt, Tundra"
+                      }
+                    ]
+                  },
+                  "url": "/s/RefArch/full-skirt/25592590M.html?lang=en_US&dwvar_25592590M_color=JJV02XX"
+                }
+              ]
+            }
+          ]
         },
         {
-          "ID": "25688190M",
-          "name": "Classic Denim Straight Leg Capri",
-          "description": "Our favorite classic denim straight leg capri is updated in fresh-for-the-season hue with front and back pockets. This is that one perfect-fitting piece to anchor your wardrobe.",
-          "image": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw9e06f72e/images/medium/PG.60114021.JJE99XX.PZ.jpg",
-          "maxPrice": 59,
-          "minPrice": 59
+          "uuid": "c78f97dd9e7bf4304ae662f4d0",
+          "id": "25688190M",
+          "productName": "Classic Denim Straight Leg Capri",
+          "productType": "master",
+          "brand": null,
+          "price": {
+            "sales": {
+              "value": 59,
+              "currency": "USD",
+              "formatted": "$59.00",
+              "decimalPrice": "59.00"
+            },
+            "list": null
+          },
+          "images": {
+            "medium": [
+              {
+                "alt": "Classic Denim Straight Leg Capri, , medium",
+                "url": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw9e06f72e/images/medium/PG.60114021.JJE99XX.PZ.jpg",
+                "title": "Classic Denim Straight Leg Capri, ",
+                "index": "0",
+                "absURL": "https://sapient5-evaluation-dw.demandware.net/on/demandware.static/-/Sites-apparel-m-catalog/default/dw9e06f72e/images/medium/PG.60114021.JJE99XX.PZ.jpg"
+              }
+            ]
+          },
+          "rating": 5,
+          "variationAttributes": [
+            {
+              "attributeId": "color",
+              "id": "color",
+              "swatchable": true,
+              "values": [
+                {
+                  "id": "JJE99XX",
+                  "description": null,
+                  "displayValue": "Rinse Wash New",
+                  "value": "JJE99XX",
+                  "selectable": true,
+                  "selected": true,
+                  "images": {
+                    "swatch": [
+                      {
+                        "alt": "Classic Denim Straight Leg Capri, Rinse Wash New, swatch",
+                        "url": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw2526641f/images/swatch/PG.60114021.JJE99XX.CP.jpg",
+                        "title": "Classic Denim Straight Leg Capri, Rinse Wash New"
+                      }
+                    ]
+                  },
+                  "url": "/s/RefArch/classic-denim-straight-leg-capri/25688190M.html?lang=en_US&dwvar_25688190M_color=JJE99XX"
+                }
+              ]
+            }
+          ]
         },
         {
-          "ID": "25688325M",
-          "name": "Pencil Skirt",
-          "description": "Make way for this effortless skirt.  Add a blouse or suit jacket to complete your look.",
-          "image": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw8f25d17c/images/medium/PG.10235198.JJ3WCXX.PZ.jpg",
-          "maxPrice": 79,
-          "minPrice": 79
+          "uuid": "2c39606e80369995b772f64212",
+          "id": "25688325M",
+          "productName": "Pencil Skirt",
+          "productType": "master",
+          "brand": null,
+          "price": {
+            "sales": {
+              "value": 79,
+              "currency": "USD",
+              "formatted": "$79.00",
+              "decimalPrice": "79.00"
+            },
+            "list": null
+          },
+          "images": {
+            "medium": [
+              {
+                "alt": "Pencil Skirt, , medium",
+                "url": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dw8f25d17c/images/medium/PG.10235198.JJ3WCXX.PZ.jpg",
+                "title": "Pencil Skirt, ",
+                "index": "0",
+                "absURL": "https://sapient5-evaluation-dw.demandware.net/on/demandware.static/-/Sites-apparel-m-catalog/default/dw8f25d17c/images/medium/PG.10235198.JJ3WCXX.PZ.jpg"
+              }
+            ]
+          },
+          "rating": 5,
+          "variationAttributes": [
+            {
+              "attributeId": "color",
+              "id": "color",
+              "swatchable": true,
+              "values": [
+                {
+                  "id": "JJ3WCXX",
+                  "description": null,
+                  "displayValue": "Black",
+                  "value": "JJ3WCXX",
+                  "selectable": true,
+                  "selected": true,
+                  "images": {
+                    "swatch": [
+                      {
+                        "alt": "Pencil Skirt, Black, swatch",
+                        "url": "/on/demandware.static/-/Sites-apparel-m-catalog/default/dwc8ca6c46/images/swatch/PG.10235198.JJ3WCXX.CP.jpg",
+                        "title": "Pencil Skirt, Black"
+                      }
+                    ]
+                  },
+                  "url": "/s/RefArch/pencil-skirt/25688325M.html?lang=en_US&dwvar_25688325M_color=JJ3WCXX"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "showMore": "https://sapient5-evaluation-dw.demandware.net/on/demandware.store/Sites-RefArch-Site/en_US/Search-UpdateGrid?cgid=newarrivals&start=12&sz=12",
+      "categories": [
+        {
+          "name": "New Arrivals",
+          "url": "/s/RefArch/new%20arrivals/?lang=en_US",
+          "id": "newarrivals",
+          "subCategories": [
+            {
+              "name": "Womens",
+              "url": "/s/RefArch/new%20arrivals/womens/?lang=en_US",
+              "id": "newarrivals-womens"
+            },
+            {
+              "name": "Mens",
+              "url": "/s/RefArch/new%20arrivals/mens/?lang=en_US",
+              "id": "newarrivals-mens"
+            },
+            {
+              "name": "Electronics",
+              "url": "/s/RefArch/new%20arrivals/electronics/?lang=en_US",
+              "id": "newarrivals-electronics"
+            }
+          ],
+          "complexSubCategories": false
+        },
+        {
+          "name": "Womens",
+          "url": "/s/RefArch/womens/?lang=en_US",
+          "id": "womens",
+          "subCategories": [
+            {
+              "name": "Clothing",
+              "url": "/s/RefArch/womens/clothing/?lang=en_US",
+              "id": "womens-clothing",
+              "subCategories": [
+                {
+                  "name": "Outfits",
+                  "url": "/s/RefArch/womens/clothing/outfits/?lang=en_US",
+                  "id": "womens-outfits"
+                },
+                {
+                  "name": "Tops",
+                  "url": "/s/RefArch/womens/clothing/tops/?lang=en_US",
+                  "id": "womens-clothing-tops"
+                },
+                {
+                  "name": "Dresses",
+                  "url": "/s/RefArch/womens/clothing/dresses/?lang=en_US",
+                  "id": "womens-clothing-dresses"
+                },
+                {
+                  "name": "Bottoms",
+                  "url": "/s/RefArch/womens/clothing/bottoms/?lang=en_US",
+                  "id": "womens-clothing-bottoms"
+                },
+                {
+                  "name": "Jackets & Coats",
+                  "url": "/s/RefArch/womens/clothing/jackets%20%26%20coats/?lang=en_US",
+                  "id": "womens-clothing-jackets"
+                },
+                {
+                  "name": "Feeling Red",
+                  "url": "/s/RefArch/womens/clothing/feeling%20red/?lang=en_US",
+                  "id": "womens-clothing-feeling-red"
+                }
+              ],
+              "complexSubCategories": false
+            },
+            {
+              "name": "Jewelry",
+              "url": "/s/RefArch/womens/jewelry/?lang=en_US",
+              "id": "womens-jewelry",
+              "subCategories": [
+                {
+                  "name": "Earrings",
+                  "url": "/s/RefArch/womens/jewelry/earrings/?lang=en_US",
+                  "id": "womens-jewelry-earrings"
+                },
+                {
+                  "name": "Bracelets",
+                  "url": "/s/RefArch/womens/jewelry/bracelets/?lang=en_US",
+                  "id": "womens-jewelry-bracelets"
+                },
+                {
+                  "name": "Necklaces",
+                  "url": "/s/RefArch/womens/jewelry/necklaces/?lang=en_US",
+                  "id": "womens-jewelry-necklaces"
+                }
+              ],
+              "complexSubCategories": false
+            },
+            {
+              "name": "Accessories",
+              "url": "/s/RefArch/womens/accessories/?lang=en_US",
+              "id": "womens-accessories",
+              "subCategories": [
+                {
+                  "name": "Scarves",
+                  "url": "/s/RefArch/womens/accessories/scarves/?lang=en_US",
+                  "id": "womens-accessories-scarves"
+                },
+                {
+                  "name": "Shoes",
+                  "url": "/s/RefArch/womens/accessories/shoes/?lang=en_US",
+                  "id": "womens-accessories-shoes"
+                }
+              ],
+              "complexSubCategories": false
+            }
+          ],
+          "complexSubCategories": true
+        },
+        {
+          "name": "Mens",
+          "url": "/s/RefArch/mens/?lang=en_US",
+          "id": "mens",
+          "subCategories": [
+            {
+              "name": "Clothing",
+              "url": "/s/RefArch/mens/clothing/?lang=en_US",
+              "id": "mens-clothing",
+              "subCategories": [
+                {
+                  "name": "Suits",
+                  "url": "/s/RefArch/mens/clothing/suits/?lang=en_US",
+                  "id": "mens-clothing-suits"
+                },
+                {
+                  "name": "Jackets & Coats",
+                  "url": "/s/RefArch/mens/clothing/jackets%20%26%20coats/?lang=en_US",
+                  "id": "mens-clothing-jackets"
+                },
+                {
+                  "name": "Dress Shirts",
+                  "url": "/s/RefArch/mens/clothing/dress%20shirts/?lang=en_US",
+                  "id": "mens-clothing-dress-shirts"
+                },
+                {
+                  "name": "Shorts",
+                  "url": "/s/RefArch/mens/clothing/shorts/?lang=en_US",
+                  "id": "mens-clothing-shorts"
+                },
+                {
+                  "name": "Pants",
+                  "url": "/s/RefArch/mens/clothing/pants/?lang=en_US",
+                  "id": "mens-clothing-pants"
+                }
+              ],
+              "complexSubCategories": false
+            },
+            {
+              "name": "Accessories",
+              "url": "/s/RefArch/mens/accessories/?lang=en_US",
+              "id": "mens-accessories",
+              "subCategories": [
+                {
+                  "name": "Ties",
+                  "url": "/s/RefArch/mens/accessories/ties/?lang=en_US",
+                  "id": "mens-accessories-ties"
+                },
+                {
+                  "name": "Gloves",
+                  "url": "/s/RefArch/mens/accessories/gloves/?lang=en_US",
+                  "id": "mens-accessories-gloves"
+                },
+                {
+                  "name": "Luggage",
+                  "url": "/s/RefArch/mens/accessories/luggage/?lang=en_US",
+                  "id": "mens-accessories-luggage"
+                }
+              ],
+              "complexSubCategories": false
+            }
+          ],
+          "complexSubCategories": true
+        },
+        {
+          "name": "Electronics",
+          "url": "/s/RefArch/electronics/?lang=en_US",
+          "id": "electronics",
+          "subCategories": [
+            {
+              "name": "Televisions",
+              "url": "/s/RefArch/electronics/televisions/?lang=en_US",
+              "id": "electronics-televisions"
+            },
+            {
+              "name": "Digital Cameras",
+              "url": "/s/RefArch/electronics/digital%20cameras/?lang=en_US",
+              "id": "electronics-digital-cameras"
+            },
+            {
+              "name": "iPod & MP3 Players",
+              "url": "/s/RefArch/electronics/ipod%20%26%20mp3%20players/?lang=en_US",
+              "id": "electronics-digital-media-players"
+            },
+            {
+              "name": "GPS Navigation",
+              "url": "/s/RefArch/electronics/gps%20navigation/?lang=en_US",
+              "id": "electronics-gps-units"
+            },
+            {
+              "name": "Gaming",
+              "url": "/s/RefArch/electronics/gaming/?lang=en_US",
+              "id": "electronics-gaming"
+            }
+          ],
+          "complexSubCategories": false
+        },
+        {
+          "name": "Top Sellers",
+          "url": {},
+          "id": "top-seller"
         }
       ]
     }
