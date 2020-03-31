@@ -2827,7 +2827,6 @@
         "variationAttributes": [{
           "attributeId": "color",
           "displayName": "Color",
-          "name": "Color",
           "id": "color",
           "swatchable": true,
           "values": [{
@@ -2861,6 +2860,10 @@
               "style": "background: url(https://sapient5-evaluation-dw.demandware.net/on/demandware.static/-/Sites-apparel-m-catalog/default/dw67187423/images/swatch/PG.10236670.JJ555XX.CP.jpg)"
             }
           }],
+          "variationAttributeType": {
+            "id": "color",
+            "name": "Color"
+          },
           "variationAttributeValues": [{
             "id": "JJ555XX",
             "description": null,
@@ -2895,7 +2898,6 @@
         }, {
           "attributeId": "size",
           "displayName": "Size",
-          "name": "Size",
           "id": "size",
           "swatchable": false,
           "values": [{
@@ -2939,6 +2941,10 @@
             "orderable": true,
             "url": "https://sapient5-evaluation-dw.demandware.net/on/demandware.store/Sites-RefArch-Site/en_US/Product-Variation?dwvar_25589283M_color=JJ555XX&dwvar_25589283M_size=9XL&pid=25589283M&quantity=1"
           }],
+          "variationAttributeType": {
+            "id": "size",
+            "name": "Size"
+          },
           "variationAttributeValues": [{
             "id": "9SM",
             "description": null,
