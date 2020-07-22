@@ -1,2 +1,2 @@
 # fakeserver
-Fake Json server for fronend-apps
+Fake Json server for frontend-apps
